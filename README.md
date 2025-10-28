@@ -1,5 +1,14 @@
 # 🎓 Jamboree Education – Linear Regression Analysis for Admissions Strategy
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![Machine Learning](https://img.shields.io/badge/Model-Linear%20Regression-orange.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![Dataset](https://img.shields.io/badge/Dataset-Jamboree_Education-yellow.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+---
+
+
 ## 📘 Overview
 This project focuses on analyzing historical student data from **Jamboree Education**, a leading institute for test prep and admissions consulting.  
 The goal is to build a **Linear Regression model** to understand how different student attributes influence admission chances and to guide **data-driven decisions** in marketing, outreach, and course design.
